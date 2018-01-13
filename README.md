@@ -3,7 +3,7 @@ A small .py script that gets &amp; list some SHA256d Coin difficulty's
 
 so far just checks 
 
-Vcoin
+Vcoin,
 JouleCoin &
 Zetacoin
 
